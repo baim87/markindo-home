@@ -194,8 +194,8 @@
             </div>
         </section>
 
-        <section class="about section lazyload blur-up py-0" id="coating" style="background-image: url('assets/img/04.webp');background-size: cover;padding-bottom:0px;">
-        <img class="w-100 lazyload blur-up" src="assets/img/coating-headimage.jpg" alt="Coating">
+        <section class="about section lazyload blur-up pt-0 pb-5" id="coating" style="background:#fff;padding-bottom:0px;">
+        <img class="w-100 lazyload blur-up" src="assets/img/coating-headimage.jpg" style="position:relative;top:0;" alt="Coating">
 
             <div class="container grid">
                 <div class="row mt-4">
@@ -215,8 +215,267 @@
         </section>
 
         <!--==================== BENEFIT ====================-->
-        <section class="benefit" id="benefit" style="background:white;">
+        <section class="benefit" id="benefit" style="background:#fada1a;">
         <img class="lazyload blur-up" src="assets/img/kelebihan coating markindo group.webp" alt="kelebihan coating Markindo" style="position:relative;top:0; background:white;width:100%;">
+            <div class="container">
+                <div class="row pt-3">
+                    <div data-aos="fade-right" data-aos-duration="3000" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 buster-280-left">
+                        <img class="lazyload blur-up" src="assets/img/competitor.webp" alt="Extreme Strong Protection">
+                    </div>
+                    <div data-aos="fade-left" data-aos-duration="3000" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 buster-280-right" >
+                        <div class="ratio ratio-16x9">
+                            <div class="pojok">
+                                <span class="pojok-num">01</span>
+                            </div>
+                            <video class="lazyload blur-up" autoplay="" playsinline="" muted="" loop="" src="assets/video/GIF PROTECTION2(1).mp4"></video>
+                        </div>
+                        <a href="#1" data-bs-toggle="modal"><img class="lazyload blur-up" src="assets/img/watch.webp" alt="" style="width:70%;position:relative; bottom:30px; left:0;"></a>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div data-aos="fade-right" data-aos-duration="3000" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 buster-280-left">
+                        <img class="lazyload blur-up" src="assets/img/uvheat.webp" alt="True Self Healing">
+                    </div>
+                    <div data-aos="fade-left" data-aos-duration="3000" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 buster-280-right" >
+                        <div class="ratio ratio-16x9">
+                            <div class="pojok">
+                                <span class="pojok-num">02</span>
+                            </div>
+                            <video class="lazyload blur-up" autoplay="" playsinline="" muted="" loop="" src="assets/video/GIF SELF HEALING 3(1).mp4"></video>
+                        </div>
+                        <a href="#2" data-bs-toggle="modal"><img class="lazyload blur-up" src="assets/img/watch.webp" alt="" style="width:70%;position:relative; bottom:30px; left:0;"></a>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div data-aos="fade-right" data-aos-duration="3000" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 buster-280-left">
+                        <img class="lazyload blur-up" src="assets/img/selfcleaning.webp" alt="">
+                    </div>
+                    <div data-aos="fade-left" data-aos-duration="3000" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 buster-280-right" >
+                        <div class="ratio ratio-16x9">
+                            <div class="pojok">
+                                <span class="pojok-num">03</span>
+                            </div>
+                            <video class="lazyload blur-up" autoplay="" playsinline="" muted="" loop="" src="assets/video/SELFCLEANING(1).mp4"></video>
+                        </div>
+                        <a href="#3" data-bs-toggle="modal"><img class="lazyload blur-up" src="assets/img/watch.webp" alt="" style="width:70%;position:relative; bottom:30px; left:0;"></a>
+                    </div>
+                </div>
+            </div>
+            <img src="assets/img/MARKINDO GROUP PORTOFOLIO COATING.webp" alt="">
+        </section>
+        <section id="portfolio" class="lazyload blur-up" style="background:white;padding-top:0;">
+                <div class="container grid pt-1" style="min-width:280px;max-width:500px;">
+                    <a href="https://www.instagram.com/markautodetailingid/" target="_blank" style="color:white;">
+                    <!-- <div class="row mb-4" style="align-items:center;">
+                        <div class="col-4 col-sm-4 p-0 mr-0 mb-0">
+                            <img class="instagrm float-end lazyload blur-up" src="assets/img/igmad.webp" alt="">
+                        </div>
+                        <div class="col-8 col-sm-8">
+                            <p class="text-black" style="font-size:13px;" class="m-0 p-0">Mark Auto Detailing</p>
+                            <p style="font-size:15px;color:grey;" class="m-0 p-0">@markautodetailingid</p>
+                        </div>
+                    </div>
+                    <div class="row mx-0" style="text-align:center;">
+                        <div class="col p-0">
+                            <p class="mb-0">2.2K</p>
+                            <p class="mb-0" style="color:gray;">Posts</p>
+                        </div>
+                        <div class="col">
+                            <p class="mb-0">18.9K</p>
+                            <p class="mb-0" style="color:gray;">Followers</p>
+                        </div>
+                        <div class="col">
+                            <p class="mb-0">22</p>
+                            <p class="mb-0"style="color:gray;">Following</p>
+                        </div>
+                    </div> -->
+                    <img class="lazyload blur-up" src="assets/img/stein-instagram2.webp" alt="" style="margin-left:auto;margin-right:auto; display:block;">
+                    <!-- <div class="row">
+                        <a href="https://www.instagram.com/markautowrap/?hl=en" target="_blank" class="btn btn-warning" style="width:200px;">Load More</a>
+                    </div> -->
+                    </a>
+                </div>
+                <div class="container d-flex justify-content-center mt-2">
+                    <h2 class="text-black">BEFORE AFTER<br> COMPARISON</h2>
+                </div>
+                <div class="container d-flex justify-content-center">
+                    <div id="comparison">
+                        <figure>
+                            <div id="divisor"></div>
+                        </figure>
+                        <input type="range" min="0" max="100" value="50" id="slider" oninput="moveDivisor()">
+                    </div>
+                </div>
+                <p class="text-center">Slide to see the difference.</p>
+                <footer class="text-center pb-5">Toyota Camry 2013 jadi seperti <br> baru lagi</footer>
+        </section>
+
+        <!--==================== BENEFIT ====================-->
+        <section class="benefit" id="benefit" style="background:#fada1a;">
+        <img class="lazyload blur-up" src="assets/img/test demo coating markindo group.webp" alt="demo coating Markindo" style="position:relative;background:white;top:0;width:100%;">
+            <div class="container">
+                <div class="row pt-3">
+                    <div data-aos="fade-right" data-aos-duration="3000" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 buster-280-left">
+                        <img class="lazyload blur-up" src="assets/img/competitor.webp" alt="Extreme Strong Protection">
+                    </div>
+                    <div data-aos="fade-left" data-aos-duration="3000" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 buster-280-right" >
+                        <div class="ratio ratio-16x9">
+                            <div class="pojok">
+                                <span class="pojok-num">01</span>
+                            </div>
+                            <video class="lazyload blur-up" autoplay="" playsinline="" muted="" loop="" src="assets/video/GIF PROTECTION2(1).mp4"></video>
+                        </div>
+                        <a href="#1" data-bs-toggle="modal"><img class="lazyload blur-up" src="assets/img/watch.webp" alt="" style="width:70%;position:relative; bottom:30px; left:0;"></a>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div data-aos="fade-right" data-aos-duration="3000" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 buster-280-left">
+                        <img class="lazyload blur-up" src="assets/img/uvheat.webp" alt="True Self Healing">
+                    </div>
+                    <div data-aos="fade-left" data-aos-duration="3000" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 buster-280-right" >
+                        <div class="ratio ratio-16x9">
+                            <div class="pojok">
+                                <span class="pojok-num">02</span>
+                            </div>
+                            <video class="lazyload blur-up" autoplay="" playsinline="" muted="" loop="" src="assets/video/GIF SELF HEALING 3(1).mp4"></video>
+                        </div>
+                        <a href="#2" data-bs-toggle="modal"><img class="lazyload blur-up" src="assets/img/watch.webp" alt="" style="width:70%;position:relative; bottom:30px; left:0;"></a>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div data-aos="fade-right" data-aos-duration="3000" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 buster-280-left">
+                        <img class="lazyload blur-up" src="assets/img/selfcleaning.webp" alt="">
+                    </div>
+                    <div data-aos="fade-left" data-aos-duration="3000" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 buster-280-right" >
+                        <div class="ratio ratio-16x9">
+                            <div class="pojok">
+                                <span class="pojok-num">03</span>
+                            </div>
+                            <video class="lazyload blur-up" autoplay="" playsinline="" muted="" loop="" src="assets/video/SELFCLEANING(1).mp4"></video>
+                        </div>
+                        <a href="#3" data-bs-toggle="modal"><img class="lazyload blur-up" src="assets/img/watch.webp" alt="" style="width:70%;position:relative; bottom:30px; left:0;"></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about section lazyload blur-up" id="ppf" style="background-image: url('assets/img/01.webp');background-size: cover;padding-bottom:0px;">
+        <img class="w-100 lazyload blur-up" src="assets/img/steinppf-head.jpg" style="position:relative;top:0;" alt="Coating">
+            <div class="container grid">
+                <div class="row">
+                    <div class="col">
+                        <div class="imgText ">
+                            <div class="text-contain" style="display:flex;align-items:center;justify-content:center;">
+                                <h3 style="color:#FFF800;margin-bottom:0;">#BeForeverWith </h3>
+                                <img style="width:150px;" class="lazyload" src="assets/img/steinlogo.webp" alt="stein-ppf">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-0">
+                    <div data-aos="fade-left" class="col-lg-6 col-sm-12">
+                        <div class="about__data" style="text-align:center;">
+                            <p class="about__description" style="color:white;">Kami mengerti bahwa setiap pengendara memiliki nilai sentimentil dengan kendaraannya masing masing oleh karena itu SteinPPF menghadirkan pelindung maksimal kelas dunia untuk cat kendaraan anda. Just Imagine an Immortal Car !</p>
+                            <p class="about__description" style="color:white;">SteinPPF adalah pelindung transparan yang memberikan daya lindung luar biasa sehingga anda TIDAK AKAN PERNAH KHAWATIR lagi dengan Baret halus, Goresan, Stonechips, Cat Retak akibat chemical, dan lain sebagainya.  </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-sm-12">
+                        <div data-aos="fade-right" class='ratio ratio-16x9'>
+                            <iframe class="lazyload" style="border-radius:12px;" data-src='https://www.youtube.com/embed//zXhMjTbG-fQ' frameborder='0' allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <img class="mt-5 head-image lazyload blur-up" src="assets/img/PROTOFOLIO PPF.webp" alt="">
+
+
+        </section>
+
+        <!--==================== POPULAR ====================-->
+            <section id="portfolio" class="lazyload blur-up" style="background-image: url('assets/img/02.webp');background-size: cover; padding-top:0;">
+                <div class="container grid pt-1" style="min-width:280px;max-width:500px;">
+                    <a href="https://www.instagram.com/markautowrap/?hl=en" target="_blank" style="color:white;">
+                    <div class="row mb-4" style="align-items:center;">
+                        <div class="col-4 col-sm-4 p-0 mr-0 mb-0">
+                            <img class="instagrm float-end lazyload blur-up" src="assets/img/instagram-mark.webp" alt="">
+                        </div>
+                        <div class="col-8 col-sm-8">
+                            <p style="font-size:13px;" class="m-0 p-0">PPF & Wrapping Mobil</p>
+                            <p style="font-size:15px;color:grey;" class="m-0 p-0">@markautowrap</p>
+                        </div>
+                    </div>
+                    <div class="row mx-0" style="text-align:center;">
+                        <div class="col p-0">
+                            <p class="mb-0">2.2K</p>
+                            <p class="mb-0" style="color:gray;">Posts</p>
+                        </div>
+                        <div class="col">
+                            <p class="mb-0">18.9K</p>
+                            <p class="mb-0" style="color:gray;">Followers</p>
+                        </div>
+                        <div class="col">
+                            <p class="mb-0">22</p>
+                            <p class="mb-0"style="color:gray;">Following</p>
+                        </div>
+                    </div>
+                    <img class="lazyload blur-up" src="assets/img/instagram.webp" alt="" style="margin-left:auto;margin-right:auto; display:block;">
+                    <div class="row">
+                        <a href="https://www.instagram.com/markautowrap/?hl=en" target="_blank" class="btn btn-warning" style="width:200px;">Load More</a>
+                    </div>
+                    </a>
+                </div>
+                <img class="head-image lazyload blur-up" src="assets/img/price-coverage-ppf.webp" alt="" style="position:relative;bottom:-30px;width:100%;">
+            </section>
+        <!--==================== QUALITY ====================-->
+        <section class="lazyload blur-up" style="background-image: url('assets/img/05.webp')">
+            <div class="container px-4">
+                <div class="row mt-1">
+                    <div class="col-md-6 kiri">
+                        <div class="row">
+                            <div data-aos="fade-right" data-aos-duration="3000" class="ml-3 col-sm-12">
+                                <h2 style="color:black;" class="display-1 pt-1"><strong>Complete <br> Protection</strong></h2>
+                                <p>Starts fr IDR 15.000.000</p>
+                            </div>
+                            <div data-aos="fade-left" data-aos-duration="3000" class="col-sm-12">
+                                <img class="image-quality-right lazyload blur-up" src="assets/img/FULL BODY PPF.webp" alt="FULL BODY PPF">
+                            </div>
+                            <div class="col-md-12 col-sm-12">
+                                <div data-aos="fade-right" data-aos-duration="3000" class="col-quality">
+                                    <p class="content-text-black"><i class="ri-checkbox-circle-line"></i> Entire Car Coverage</p>
+                                    <p class="content-text-black"><i class="ri-checkbox-circle-line"></i> Mirror Covers</p>
+                                    <p class="content-text-black"><i class="ri-checkbox-circle-line"></i> Headlights</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 kanan">
+                        <div class="row">
+                            <div data-aos="fade-left" data-aos-duration="3000" class="col-sm-12">
+                                <h2 style="color:black;" class="display-1 pt-1 kanan">Full Bumper Protection</h2>
+                                <p>Starts fr IDR 4.500.000</p>
+                            </div>
+                            <div data-aos="fade-right" data-aos-duration="3000" class="col-sm-12">
+                                <img class="image-quality-left lazyload blur-up" src="assets/img/FULL BUMPER PPF.webp" alt="FULL BUMPER PPF" style="position:relative;z-index:1;">
+                            </div>
+                            <div class="col-sm-12">
+                                <div data-aos="fade-up" data-aos-duration="3000" class="col-quality">
+                                    <p class="kanan content-text-black"><i class="ri-checkbox-circle-line"></i> Front & Rear Bumper</p>
+                                    <p class="kanan content-text-black"><i class="ri-checkbox-circle-line"></i> Mirror Covers</p>
+                                    <p class="kanan content-text-black"><i class="ri-checkbox-circle-line"></i> Headlights</p>
+                                </div>
+                                <!-- <div class="col">
+                                    <img id="layang" src="assets/img/box-stein.webp" alt="stein-ppf" />
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <img class="lazyload blur-up" style="position:relative;bottom:-37px;width:100%;" src="assets/img/benefit ppf.webp" alt="">
+        </section>
+
+        <!--==================== BENEFIT ====================-->
+        <section class="benefit" id="benefit" style="background:white;">
             <div class="container">
                 <div class="row pt-3">
                     <div data-aos="fade-right" data-aos-duration="3000" class="col-xs-6 col-sm-6 col-md-6 col-lg-6 buster-280-left">
@@ -431,6 +690,14 @@
             </div>
         </div>
     </div>
+
+    <script>
+        var divisor = document.getElementById("divisor"),
+        slider = document.getElementById("slider");
+        function moveDivisor() { 
+            divisor.style.width = slider.value+"%";
+        }
+    </script>
 
     <script>
             const fetchData = async (id) => {
